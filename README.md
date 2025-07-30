@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cursando Engenharia de Software<br>-.NET<br>-C#<br>-PYTHON<br>-POSTGRES<br>-SQLSERVER
+Cursando Engenharia de Software<br>-.NET<br>-C#<br>-PYTHON<br>-POSTGRES<br>-SQLSERVER<br>-JAVA
 
 
 # 💻 Tech Stack:
